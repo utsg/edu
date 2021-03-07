@@ -1,4 +1,4 @@
-package kyu5;
+package codewars.kyu5;
 
 import org.junit.jupiter.api.Test;
 

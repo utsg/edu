@@ -1,7 +1,6 @@
-package kyu6;
+package codewars.kyu6;
 
 import java.util.Arrays;
-import java.util.stream.Collectors;
 
 public class ConvertToCamelCase {
     static String toCamelCase(String str) {

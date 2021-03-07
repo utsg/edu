@@ -1,4 +1,4 @@
-package kyu5;
+package codewars.kyu5;
 
 public class Int32toIPv4 {
     public static String longToIP(long ip) {
