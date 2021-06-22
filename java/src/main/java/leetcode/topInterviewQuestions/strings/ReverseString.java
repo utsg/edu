@@ -1,4 +1,4 @@
-package leetcode.strings;
+package leetcode.topInterviewQuestions.strings;
 
 public class ReverseString {
     public void reverseString(char[] s) {

@@ -1,4 +1,4 @@
-package leetcode.math;
+package leetcode.topInterviewQuestions.math;
 
 import java.util.ArrayList;
 import java.util.List;

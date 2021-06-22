@@ -1,6 +1,4 @@
-package leetcode.strings;
-
-import java.util.Arrays;
+package leetcode.topInterviewQuestions.strings;
 
 public class FirstUniqueCharacterInAString {
     public int firstUniqChar(String s) {

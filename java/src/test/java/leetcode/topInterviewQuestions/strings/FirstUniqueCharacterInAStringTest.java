@@ -1,4 +1,4 @@
-package leetcode.strings;
+package leetcode.topInterviewQuestions.strings;
 
 import org.junit.jupiter.api.Test;
 

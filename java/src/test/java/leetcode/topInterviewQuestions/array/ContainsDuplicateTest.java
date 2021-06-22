@@ -1,4 +1,4 @@
-package leetcode.array;
+package leetcode.topInterviewQuestions.array;
 
 import org.junit.jupiter.api.Test;
 

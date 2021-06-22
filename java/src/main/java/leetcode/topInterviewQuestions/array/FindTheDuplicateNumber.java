@@ -1,6 +1,4 @@
-package leetcode.array;
-
-import java.util.Arrays;
+package leetcode.topInterviewQuestions.array;
 
 public class FindTheDuplicateNumber {
     public int findDuplicate(int[] nums) {
